@@ -1,6 +1,7 @@
 # labpy02
 
-![Screenshot (58)](https://github.com/user-attachments/assets/96537b4c-8e3b-4b40-aa53-4bf1535673e3)
+![Screenshot (58)](https://github.com/user-attachments/assets/78110efa-8209-4fdb-a328-5a3f82e62db2)
+
 
 
 ### Berikut ini penjelasan kode latihan 1
@@ -76,7 +77,12 @@
 
 
 
-![Screenshot (55)](https://github.com/user-attachments/assets/4866ad21-76e1-4417-a07d-4f0278b9feec)
+![Screenshot (63)](https://github.com/user-attachments/assets/9b46151f-4181-4e04-8b13-a0c823be6f9a)
+
+![Screenshot (64)](https://github.com/user-attachments/assets/3a8fcaf6-4609-4537-9b1a-08f7360c2aa8)
+
+
+
 
 ### Berikut ini penjelasan kode latihan 2
 
@@ -139,7 +145,9 @@
 
 
 
-![Screenshot (59)](https://github.com/user-attachments/assets/e0620a02-6c84-40a3-886a-bea168d993a5)
+![Screenshot (59)](https://github.com/user-attachments/assets/ab050b2f-f540-4ff2-aed9-e56935fdc4ed)
+
+
 
 
 ### Berikut ini penjelasan kode latihan 3
@@ -175,8 +183,9 @@
 
 
 
+![Screenshot (56)](https://github.com/user-attachments/assets/cfe9c258-ca04-4007-83d4-cd09fe5fb6e5)
 
-  ![Screenshot (56)](https://github.com/user-attachments/assets/df750b9b-401c-4e2f-ba4c-cc1fe79d9e8b)
+
 
 
   ### Berikut ini penjelasan kode latihan 4
