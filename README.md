@@ -1,6 +1,7 @@
 # labpy02
 
-https://github.com/amelianurmala/labpy02/issues/3#issue-2626476889
+![Screenshot (58)](https://github.com/user-attachments/assets/96537b4c-8e3b-4b40-aa53-4bf1535673e3)
+
 
 Berikut adalah penjelasan latihan 1:
 
