@@ -1,5 +1,7 @@
 # labpy02
 
+https://github.com/amelianurmala/labpy02/issues/3#issue-2626476889
+
 Berikut adalah penjelasan latihan 1:
 
 ### 1. Input Data
